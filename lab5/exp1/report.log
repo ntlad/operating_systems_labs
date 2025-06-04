@@ -1,0 +1,53 @@
+step 100000: array size = 1000000
+step 200000: array size = 2000000
+step 300000: array size = 3000000
+step 400000: array size = 4000000
+step 500000: array size = 5000000
+step 600000: array size = 6000000
+step 700000: array size = 7000000
+step 800000: array size = 8000000
+step 900000: array size = 9000000
+step 1000000: array size = 10000000
+step 1100000: array size = 11000000
+step 1200000: array size = 12000000
+step 1300000: array size = 13000000
+step 1400000: array size = 14000000
+step 1500000: array size = 15000000
+step 1600000: array size = 16000000
+step 1700000: array size = 17000000
+step 1800000: array size = 18000000
+step 1900000: array size = 19000000
+step 2000000: array size = 20000000
+step 2100000: array size = 21000000
+step 2200000: array size = 22000000
+step 2300000: array size = 23000000
+step 2400000: array size = 24000000
+step 2500000: array size = 25000000
+step 2600000: array size = 26000000
+step 2700000: array size = 27000000
+step 2800000: array size = 28000000
+step 2900000: array size = 29000000
+step 3000000: array size = 30000000
+step 3100000: array size = 31000000
+step 3200000: array size = 32000000
+step 3300000: array size = 33000000
+step 3400000: array size = 34000000
+step 3500000: array size = 35000000
+step 3600000: array size = 36000000
+step 3700000: array size = 37000000
+step 3800000: array size = 38000000
+step 3900000: array size = 39000000
+step 4000000: array size = 40000000
+step 4100000: array size = 41000000
+step 4200000: array size = 42000000
+step 4300000: array size = 43000000
+step 4400000: array size = 44000000
+step 4500000: array size = 45000000
+step 4600000: array size = 46000000
+step 4700000: array size = 47000000
+step 4800000: array size = 48000000
+step 4900000: array size = 49000000
+last 2 notes in dmesg:
+[ 5259.522773] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-e90bf86e-91d1-499c-aa0b-7986e5dc4564.scope,task=mem.sh,pid=5444,uid=1000
+[ 5259.526642] Out of memory: Killed process 5444 (mem.sh) total-vm:3915292kB, anon-rss:3274880kB, file-rss:208kB, shmem-rss:0kB, UID:1000 pgtables:7712kB oom_score_adj:200
+

@@ -1,0 +1,578 @@
+waiting mem.bash and mem2.bash...
+==========================================
+Wed Jun  4 09:27:57 AM UTC 2025
+general memory stat:
+top - 09:28:02 up 13:19,  1 user,  load average: 0.31, 0.37, 0.29
+Tasks: 300 total,   6 running, 294 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.8 us,  0.3 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   3913.5 total,    116.8 free,   2662.2 used,   1445.7 buff/cache     
+MiB Swap:   1907.3 total,   1094.0 free,    813.3 used.   1251.3 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0  540976 534264   3064 R 100.0  13.3   0:05.07 mem.sh
+  10559 natlad    20   0  551800 545136   3056 R 100.0  13.6   0:05.07 mem2.sh
+current array size:
+  mem.sh: step 600000: array size = 6000000
+  mem2.sh: step 600000: array size = 6000000
+
+==========================================
+Wed Jun  4 09:28:03 AM UTC 2025
+general memory stat:
+top - 09:28:03 up 13:19,  1 user,  load average: 0.45, 0.40, 0.30
+Tasks: 300 total,   4 running, 296 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.7 us, 13.9 sy,  0.0 ni, 68.1 id,  1.4 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   3913.5 total,    108.8 free,   2909.9 used,   1218.6 buff/cache     
+MiB Swap:   1907.3 total,   1058.6 free,    848.7 used.   1003.6 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0  648556 620280   3064 R 100.0  15.5   0:06.68 mem.sh
+  10559 natlad    20   0  654100 625648   3056 R 100.0  15.6   0:06.68 mem2.sh
+current array size:
+  mem.sh: step 800000: array size = 8000000
+  mem2.sh: step 800000: array size = 8000000
+
+==========================================
+Wed Jun  4 09:28:05 AM UTC 2025
+general memory stat:
+top - 09:28:05 up 13:19,  1 user,  load average: 0.45, 0.40, 0.30
+Tasks: 300 total,   4 running, 296 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.5 us, 11.7 sy,  0.0 ni, 67.5 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st 
+MiB Mem :   3913.5 total,    123.0 free,   3016.1 used,   1078.1 buff/cache     
+MiB Swap:   1907.3 total,    992.0 free,    915.3 used.    897.4 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0  743596 683512   3064 R  94.7  17.1   0:08.34 mem.sh
+  10559 natlad    20   0  748876 689136   3056 R  89.5  17.2   0:08.34 mem2.sh
+current array size:
+  mem.sh: step 900000: array size = 9000000
+  mem2.sh: step 900000: array size = 9000000
+
+==========================================
+Wed Jun  4 09:28:07 AM UTC 2025
+general memory stat:
+top - 09:28:07 up 13:19,  1 user,  load average: 0.45, 0.40, 0.30
+Tasks: 300 total,   4 running, 296 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.0 us, 13.9 sy,  0.0 ni, 67.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   3913.5 total,     81.4 free,   3119.2 used,   1016.4 buff/cache     
+MiB Swap:   1907.3 total,    930.3 free,    977.0 used.    794.4 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0  829792 736504   3064 R 100.0  18.4   0:09.87 mem.sh
+  10559 natlad    20   0  834940 741488   3056 R 100.0  18.5   0:09.87 mem2.sh
+current array size:
+  mem.sh: step 1000000: array size = 10000000
+  mem2.sh: step 1000000: array size = 10000000
+
+==========================================
+Wed Jun  4 09:28:08 AM UTC 2025
+general memory stat:
+top - 09:28:08 up 13:19,  1 user,  load average: 0.97, 0.51, 0.33
+Tasks: 300 total,   6 running, 294 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.4 us, 18.4 sy,  0.0 ni, 59.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   3913.5 total,    102.4 free,   3211.9 used,    924.5 buff/cache     
+MiB Swap:   1907.3 total,    882.6 free,   1024.8 used.    701.6 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0  879292 765816   3064 R 100.0  19.1   0:11.43 mem.sh
+  10559 natlad    20   0  884968 771696   3056 R  92.3  19.3   0:11.43 mem2.sh
+current array size:
+  mem.sh: step 1100000: array size = 11000000
+  mem2.sh: step 1100000: array size = 11000000
+
+==========================================
+Wed Jun  4 09:28:10 AM UTC 2025
+general memory stat:
+top - 09:28:10 up 13:19,  1 user,  load average: 0.97, 0.51, 0.33
+Tasks: 300 total,   4 running, 296 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.2 us, 10.7 sy,  0.0 ni, 58.9 id,  0.0 wa,  0.0 hi,  7.1 si,  0.0 st 
+MiB Mem :   3913.5 total,    110.1 free,   3310.7 used,    799.1 buff/cache     
+MiB Swap:   1907.3 total,    833.4 free,   1073.9 used.    602.8 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 1023436 904824   3064 R 100.0  22.6   0:13.38 mem.sh
+  10559 natlad    20   0 1026736 908912   3056 R 100.0  22.7   0:13.38 mem2.sh
+current array size:
+  mem.sh: step 1200000: array size = 12000000
+  mem2.sh: step 1300000: array size = 13000000
+
+==========================================
+Wed Jun  4 09:28:12 AM UTC 2025
+general memory stat:
+top - 09:28:12 up 13:19,  1 user,  load average: 0.97, 0.51, 0.33
+Tasks: 300 total,   4 running, 296 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.0 us, 43.0 sy,  0.0 ni, 36.0 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st 
+MiB Mem :   3913.5 total,     97.2 free,   3489.6 used,    670.2 buff/cache     
+MiB Swap:   1907.3 total,    763.4 free,   1143.9 used.    423.9 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10559 natlad    20   0 1082968 935664   3056 R  92.3  23.3   0:15.02 mem2.sh
+  10558 natlad    20   0 1092604 945912   3064 R  84.6  23.6   0:15.02 mem.sh
+current array size:
+  mem.sh: step 1300000: array size = 13000000
+  mem2.sh: step 1300000: array size = 13000000
+
+==========================================
+Wed Jun  4 09:28:14 AM UTC 2025
+general memory stat:
+top - 09:28:14 up 13:19,  1 user,  load average: 1.62, 0.65, 0.38
+Tasks: 302 total,   4 running, 298 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.4 us, 24.5 sy,  0.0 ni, 49.0 id,  1.0 wa,  0.0 hi,  4.1 si,  0.0 st 
+MiB Mem :   3913.5 total,    172.1 free,   3592.0 used,    561.6 buff/cache     
+MiB Swap:   1907.3 total,    660.5 free,   1246.9 used.    321.5 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10559 natlad    20   0 1170352 985072   3056 R  91.7  24.6   0:16.87 mem2.sh
+  10558 natlad    20   0 1172200 985848   3064 R  83.3  24.6   0:16.79 mem.sh
+current array size:
+  mem.sh: step 1400000: array size = 14000000
+  mem2.sh: step 1400000: array size = 14000000
+
+==========================================
+Wed Jun  4 09:28:16 AM UTC 2025
+general memory stat:
+top - 09:28:16 up 13:19,  1 user,  load average: 1.62, 0.65, 0.38
+Tasks: 304 total,   4 running, 300 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.9 us, 16.5 sy,  0.0 ni, 61.2 id,  9.1 wa,  0.0 hi,  3.3 si,  0.0 st 
+MiB Mem :   3913.5 total,    213.1 free,   3580.4 used,    543.3 buff/cache     
+MiB Swap:   1907.3 total,    570.5 free,   1336.9 used.    333.1 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 1213516 981.6m   3064 R  75.0  25.1   0:18.69 mem.sh
+  10559 natlad    20   0 1212328 978.1m   3056 D  75.0  25.0   0:18.68 mem2.sh
+current array size:
+  mem.sh: step 1500000: array size = 15000000
+  mem2.sh: step 1500000: array size = 15000000
+
+==========================================
+Wed Jun  4 09:28:18 AM UTC 2025
+general memory stat:
+top - 09:28:18 up 13:19,  1 user,  load average: 1.81, 0.71, 0.40
+Tasks: 306 total,   4 running, 302 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.7 us, 25.7 sy,  0.0 ni, 50.0 id,  2.9 wa,  0.0 hi,  5.7 si,  0.0 st 
+MiB Mem :   3913.5 total,    212.7 free,   3581.4 used,    542.0 buff/cache     
+MiB Swap:   1907.3 total,    487.6 free,   1419.7 used.    332.1 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 1261696 987.4m   3064 R  92.3  25.2   0:20.36 mem.sh
+  10559 natlad    20   0 1263676 986.9m   3056 R  92.3  25.2   0:20.39 mem2.sh
+current array size:
+  mem.sh: step 1600000: array size = 16000000
+  mem2.sh: step 1600000: array size = 16000000
+
+==========================================
+Wed Jun  4 09:28:20 AM UTC 2025
+general memory stat:
+top - 09:28:20 up 13:19,  1 user,  load average: 1.81, 0.71, 0.40
+Tasks: 308 total,   5 running, 303 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.0 us, 35.3 sy,  0.0 ni, 19.9 id, 19.1 wa,  0.0 hi, 11.8 si,  0.0 st 
+MiB Mem :   3913.5 total,    216.3 free,   3577.8 used,    536.6 buff/cache     
+MiB Swap:   1907.3 total,    400.8 free,   1506.5 used.    335.7 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 1307236   1.0g   3064 R  86.7  25.6   0:22.13 mem.sh
+  10559 natlad    20   0 1309480 995.4m   3056 R  86.7  25.4   0:22.14 mem2.sh
+current array size:
+  mem.sh: step 1600000: array size = 16000000
+  mem2.sh: step 1600000: array size = 16000000
+
+==========================================
+Wed Jun  4 09:28:22 AM UTC 2025
+general memory stat:
+top - 09:28:22 up 13:19,  1 user,  load average: 2.14, 0.80, 0.43
+Tasks: 308 total,   4 running, 304 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.7 us, 26.5 sy,  0.0 ni, 18.6 id, 31.4 wa,  0.0 hi,  7.8 si,  0.0 st 
+MiB Mem :   3913.5 total,    215.7 free,   3578.5 used,    536.5 buff/cache     
+MiB Swap:   1907.3 total,    342.0 free,   1565.4 used.    335.0 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10559 natlad    20   0 1350400 996.7m   3056 D  83.3  25.5   0:23.86 mem2.sh
+  10558 natlad    20   0 1343404 996.1m   3064 D  66.7  25.5   0:23.80 mem.sh
+current array size:
+  mem.sh: step 1700000: array size = 17000000
+  mem2.sh: step 1700000: array size = 17000000
+
+==========================================
+Wed Jun  4 09:28:24 AM UTC 2025
+general memory stat:
+top - 09:28:25 up 13:19,  1 user,  load average: 2.14, 0.80, 0.43
+Tasks: 308 total,   5 running, 303 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.9 us, 27.7 sy,  0.0 ni, 28.7 id, 24.8 wa,  0.0 hi,  8.9 si,  0.0 st 
+MiB Mem :   3913.5 total,    215.1 free,   3578.6 used,    537.5 buff/cache     
+MiB Swap:   1907.3 total,    252.2 free,   1655.2 used.    334.9 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10559 natlad    20   0 1408084 990.2m   3056 D  50.0  25.3   0:25.33 mem2.sh
+  10558 natlad    20   0 1399372 993.1m   3064 D  43.8  25.4   0:25.26 mem.sh
+current array size:
+  mem.sh: step 1700000: array size = 17000000
+  mem2.sh: step 1700000: array size = 17000000
+
+==========================================
+Wed Jun  4 09:28:27 AM UTC 2025
+general memory stat:
+top - 09:28:27 up 13:19,  1 user,  load average: 2.14, 0.80, 0.43
+Tasks: 308 total,   4 running, 304 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.7 us, 19.8 sy,  0.0 ni, 41.3 id, 23.8 wa,  0.0 hi,  6.3 si,  0.0 st 
+MiB Mem :   3913.5 total,    215.2 free,   3578.5 used,    537.5 buff/cache     
+MiB Swap:   1907.3 total,    153.1 free,   1754.3 used.    335.0 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 1456792 990.0m   3064 R  78.6  25.3   0:26.79 mem.sh
+  10559 natlad    20   0 1466692 989.2m   3056 R  71.4  25.3   0:26.88 mem2.sh
+current array size:
+  mem.sh: step 1800000: array size = 18000000
+  mem2.sh: step 1800000: array size = 18000000
+
+==========================================
+Wed Jun  4 09:28:28 AM UTC 2025
+general memory stat:
+top - 09:28:29 up 13:19,  1 user,  load average: 2.45, 0.88, 0.46
+Tasks: 308 total,   4 running, 304 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10.1 us, 12.4 sy,  0.0 ni, 71.9 id,  2.2 wa,  0.0 hi,  3.4 si,  0.0 st 
+MiB Mem :   3913.5 total,    224.4 free,   3575.1 used,    522.9 buff/cache     
+MiB Swap:   1907.3 total,     66.7 free,   1840.7 used.    338.4 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 1557508   1.0g   2808 R 100.0  27.0   0:28.65 mem.sh
+  10559 natlad    20   0 1572688   1.0g   2800 R 100.0  27.1   0:28.72 mem2.sh
+current array size:
+  mem.sh: step 1900000: array size = 19000000
+  mem2.sh: step 2000000: array size = 20000000
+
+==========================================
+Wed Jun  4 09:28:30 AM UTC 2025
+general memory stat:
+top - 09:28:31 up 13:19,  1 user,  load average: 2.45, 0.88, 0.46
+Tasks: 309 total,   6 running, 303 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.1 us,  1.1 sy,  0.0 ni, 94.7 id,  1.1 wa,  0.0 hi,  1.1 si,  0.0 st 
+MiB Mem :   3913.5 total,    117.1 free,   3786.1 used,    296.3 buff/cache     
+MiB Swap:   1907.3 total,      0.0 free,   1907.3 used.    127.4 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10559 natlad    20   0 1815832   1.3g   1528 R  84.6  33.1   0:31.09 mem2.sh
+  10558 natlad    20   0 1807516   1.3g   1344 R  69.2  33.2   0:31.01 mem.sh
+current array size:
+  mem.sh: step 2300000: array size = 23000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:24 AM UTC 2025
+general memory stat:
+top - 09:33:24 up 13:24,  1 user,  load average: 81.19, 47.44, 20.26
+Tasks: 321 total,  10 running, 311 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.6 us, 54.9 sy,  0.0 ni,  0.0 id, 13.2 wa,  0.0 hi, 25.3 si,  0.0 st 
+MiB Mem :   3913.5 total,   1181.7 free,   2733.2 used,    288.7 buff/cache     
+MiB Swap:   1907.3 total,    462.8 free,   1444.5 used.   1180.3 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 1846984   1.3g   1604 R  47.1  34.1   1:43.73 mem.sh
+current array size:
+  mem.sh: step 2300000: array size = 23000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:26 AM UTC 2025
+general memory stat:
+top - 09:33:26 up 13:24,  1 user,  load average: 81.19, 47.44, 20.26
+Tasks: 323 total,  17 running, 306 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.6 us, 28.1 sy,  0.0 ni, 12.5 id, 28.1 wa,  0.0 hi, 15.6 si,  0.0 st 
+MiB Mem :   3913.5 total,    936.9 free,   2798.6 used,    476.7 buff/cache     
+MiB Swap:   1907.3 total,    471.3 free,   1436.0 used.   1114.9 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 1916944   1.4g   1788 R  50.0  35.9   1:45.67 mem.sh
+current array size:
+  mem.sh: step 2400000: array size = 24000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:28 AM UTC 2025
+general memory stat:
+top - 09:33:28 up 13:24,  1 user,  load average: 75.81, 46.89, 20.22
+Tasks: 324 total,   5 running, 318 sleeping,   0 stopped,   1 zombie
+%Cpu(s): 20.0 us, 32.0 sy,  0.0 ni, 14.0 id, 14.0 wa,  0.0 hi, 20.0 si,  0.0 st 
+MiB Mem :   3913.5 total,    725.8 free,   2900.4 used,    594.2 buff/cache     
+MiB Swap:   1907.3 total,    483.1 free,   1424.3 used.   1013.1 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 1990732   1.4g   1788 R  90.9  37.7   1:47.15 mem.sh
+current array size:
+  mem.sh: step 2500000: array size = 25000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:30 AM UTC 2025
+general memory stat:
+top - 09:33:30 up 13:24,  1 user,  load average: 75.81, 46.89, 20.22
+Tasks: 323 total,   2 running, 321 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.8 us,  4.9 sy,  0.0 ni, 82.9 id,  1.2 wa,  0.0 hi,  1.2 si,  0.0 st 
+MiB Mem :   3913.5 total,    574.1 free,   3027.0 used,    619.3 buff/cache     
+MiB Swap:   1907.3 total,    497.1 free,   1410.3 used.    886.5 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 2098312   1.5g   1788 R 100.0  40.4   1:48.73 mem.sh
+current array size:
+  mem.sh: step 2600000: array size = 26000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:31 AM UTC 2025
+general memory stat:
+top - 09:33:31 up 13:24,  1 user,  load average: 75.81, 46.89, 20.22
+Tasks: 323 total,   2 running, 321 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.8 us,  3.7 sy,  0.0 ni, 79.0 id,  2.5 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   3913.5 total,    446.6 free,   3153.1 used,    620.8 buff/cache     
+MiB Swap:   1907.3 total,    498.1 free,   1409.3 used.    760.4 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 2228200   1.7g   1788 R 100.0  43.6   1:50.24 mem.sh
+current array size:
+  mem.sh: step 2800000: array size = 28000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:33 AM UTC 2025
+general memory stat:
+top - 09:33:33 up 13:24,  1 user,  load average: 69.82, 46.12, 20.12
+Tasks: 322 total,   2 running, 320 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.6 us,  8.0 sy,  0.0 ni, 73.9 id,  0.0 wa,  0.0 hi,  4.5 si,  0.0 st 
+MiB Mem :   3913.5 total,    300.1 free,   3299.5 used,    620.7 buff/cache     
+MiB Swap:   1907.3 total,    498.3 free,   1409.0 used.    614.0 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 2381188   1.8g   1788 R  94.1  47.5   1:51.96 mem.sh
+current array size:
+  mem.sh: step 3000000: array size = 30000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:35 AM UTC 2025
+general memory stat:
+top - 09:33:35 up 13:24,  1 user,  load average: 69.82, 46.12, 20.12
+Tasks: 322 total,   3 running, 319 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.9 us, 19.2 sy,  0.0 ni, 46.6 id,  6.8 wa,  0.0 hi,  5.5 si,  0.0 st 
+MiB Mem :   3913.5 total,    150.0 free,   3444.9 used,    625.5 buff/cache     
+MiB Swap:   1907.3 total,    500.8 free,   1406.5 used.    468.6 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 2512132   1.9g   1788 R  90.9  50.7   1:53.53 mem.sh
+current array size:
+  mem.sh: step 3200000: array size = 32000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:36 AM UTC 2025
+general memory stat:
+top - 09:33:37 up 13:24,  1 user,  load average: 69.82, 46.12, 20.12
+Tasks: 320 total,   4 running, 316 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.0 us, 30.0 sy,  0.0 ni, 25.0 id,  6.0 wa,  0.0 hi, 14.0 si,  0.0 st 
+MiB Mem :   3913.5 total,     78.4 free,   3492.1 used,    634.9 buff/cache     
+MiB Swap:   1907.3 total,    470.2 free,   1437.2 used.    421.4 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 2614828   2.0g   1788 R 100.0  53.2   1:55.22 mem.sh
+current array size:
+  mem.sh: step 3300000: array size = 33000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:38 AM UTC 2025
+general memory stat:
+top - 09:33:38 up 13:24,  1 user,  load average: 64.55, 45.43, 20.03
+Tasks: 321 total,   4 running, 317 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.1 us, 16.1 sy,  0.0 ni, 41.9 id, 11.3 wa,  0.0 hi, 14.5 si,  0.0 st 
+MiB Mem :   3913.5 total,     80.1 free,   3502.7 used,    622.6 buff/cache     
+MiB Swap:   1907.3 total,    388.2 free,   1519.1 used.    410.8 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 2706700   2.1g   1788 R 100.0  55.5   1:57.16 mem.sh
+current array size:
+  mem.sh: step 3400000: array size = 34000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:40 AM UTC 2025
+general memory stat:
+top - 09:33:40 up 13:24,  1 user,  load average: 64.55, 45.43, 20.03
+Tasks: 321 total,   4 running, 317 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.1 us, 21.4 sy,  0.0 ni, 40.0 id,  8.6 wa,  0.0 hi, 12.9 si,  0.0 st 
+MiB Mem :   3913.5 total,     74.2 free,   3506.5 used,    612.0 buff/cache     
+MiB Swap:   1907.3 total,    338.5 free,   1568.9 used.    407.0 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 2758312   2.2g   1788 D  41.7  56.8   1:58.51 mem.sh
+current array size:
+  mem.sh: step 3500000: array size = 35000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:41 AM UTC 2025
+general memory stat:
+top - 09:33:42 up 13:24,  1 user,  load average: 64.55, 45.43, 20.03
+Tasks: 321 total,   3 running, 318 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.8 us, 19.4 sy,  0.0 ni, 50.0 id,  0.0 wa,  0.0 hi,  9.7 si,  0.0 st 
+MiB Mem :   3913.5 total,     78.4 free,   3501.8 used,    600.3 buff/cache     
+MiB Swap:   1907.3 total,    271.4 free,   1636.0 used.    411.7 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 2851108   2.3g   1788 R 100.0  59.1   1:59.91 mem.sh
+current array size:
+  mem.sh: step 3600000: array size = 36000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:43 AM UTC 2025
+general memory stat:
+top - 09:33:43 up 13:25,  1 user,  load average: 59.46, 44.69, 19.93
+Tasks: 321 total,   6 running, 315 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.9 us,  5.3 sy,  0.0 ni, 85.5 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st 
+MiB Mem :   3913.5 total,    104.7 free,   3614.5 used,    458.3 buff/cache     
+MiB Swap:   1907.3 total,    249.9 free,   1657.5 used.    299.0 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 2976904   2.4g   1788 R  84.6  62.3   2:01.46 mem.sh
+current array size:
+  mem.sh: step 3700000: array size = 37000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:45 AM UTC 2025
+general memory stat:
+top - 09:33:45 up 13:25,  1 user,  load average: 59.46, 44.69, 19.93
+Tasks: 320 total,   6 running, 314 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.9 us, 19.0 sy,  0.0 ni, 47.6 id,  9.5 wa,  0.0 hi,  7.9 si,  0.0 st 
+MiB Mem :   3913.5 total,    102.6 free,   3625.2 used,    448.5 buff/cache     
+MiB Swap:   1907.3 total,    186.7 free,   1720.6 used.    288.3 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 3047392   2.4g   1788 R  91.7  63.3   2:03.07 mem.sh
+current array size:
+  mem.sh: step 3800000: array size = 38000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:46 AM UTC 2025
+general memory stat:
+top - 09:33:46 up 13:25,  1 user,  load average: 59.46, 44.69, 19.93
+Tasks: 320 total,   4 running, 316 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.2 us, 16.2 sy,  0.0 ni, 64.7 id,  1.5 wa,  0.0 hi,  4.4 si,  0.0 st 
+MiB Mem :   3913.5 total,     98.2 free,   3632.9 used,    444.7 buff/cache     
+MiB Swap:   1907.3 total,    136.9 free,   1770.4 used.    280.6 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 3100852   2.4g   1788 R 100.0  63.6   2:04.61 mem.sh
+current array size:
+  mem.sh: step 3900000: array size = 39000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:48 AM UTC 2025
+general memory stat:
+top - 09:33:48 up 13:25,  1 user,  load average: 55.10, 44.03, 19.85
+Tasks: 314 total,   5 running, 309 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.9 us, 15.3 sy,  0.0 ni, 66.7 id,  0.0 wa,  0.0 hi,  4.2 si,  0.0 st 
+MiB Mem :   3913.5 total,     84.7 free,   3648.6 used,    442.8 buff/cache     
+MiB Swap:   1907.3 total,     82.3 free,   1825.0 used.    264.9 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 3157348   2.4g   1788 R 100.0  64.1   2:06.17 mem.sh
+current array size:
+  mem.sh: step 4000000: array size = 40000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:49 AM UTC 2025
+general memory stat:
+top - 09:33:50 up 13:25,  1 user,  load average: 55.10, 44.03, 19.85
+Tasks: 314 total,   4 running, 310 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15.4 us,  9.9 sy,  0.0 ni, 72.5 id,  0.0 wa,  0.0 hi,  2.2 si,  0.0 st 
+MiB Mem :   3913.5 total,    103.7 free,   3649.6 used,    424.8 buff/cache     
+MiB Swap:   1907.3 total,     41.4 free,   1865.9 used.    263.9 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 3213580   2.5g   1788 R 100.0  64.8   2:07.80 mem.sh
+current array size:
+  mem.sh: step 4100000: array size = 41000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:51 AM UTC 2025
+general memory stat:
+top - 09:33:52 up 13:25,  1 user,  load average: 55.10, 44.03, 19.85
+Tasks: 315 total,   4 running, 311 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.8 us, 43.5 sy,  0.0 ni, 24.6 id, 11.6 wa,  0.0 hi, 14.5 si,  0.0 st 
+MiB Mem :   3913.5 total,     80.1 free,   3656.4 used,    441.2 buff/cache     
+MiB Swap:   1907.3 total,     14.0 free,   1893.3 used.    257.1 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 3247108   2.5g   1788 R  84.6  65.6   2:09.62 mem.sh
+current array size:
+  mem.sh: step 4100000: array size = 41000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:53 AM UTC 2025
+general memory stat:
+top - 09:33:53 up 13:25,  1 user,  load average: 50.85, 43.33, 19.75
+Tasks: 316 total,   5 running, 311 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.3 us, 16.0 sy,  0.0 ni, 65.3 id,  1.3 wa,  0.0 hi,  4.0 si,  0.0 st 
+MiB Mem :   3913.5 total,     97.5 free,   3744.7 used,    328.3 buff/cache     
+MiB Swap:   1907.3 total,      0.1 free,   1907.2 used.    168.8 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 3358912   2.6g   1788 R 100.0  68.4   2:11.15 mem.sh
+current array size:
+  mem.sh: step 4200000: array size = 42000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:55 AM UTC 2025
+general memory stat:
+top - 09:33:55 up 13:25,  1 user,  load average: 50.85, 43.33, 19.75
+Tasks: 317 total,   5 running, 312 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.8 us, 24.8 sy,  0.0 ni, 35.6 id,  5.0 wa,  0.0 hi, 11.9 si,  0.0 st 
+MiB Mem :   3913.5 total,     96.2 free,   3831.8 used,    238.6 buff/cache     
+MiB Swap:   1907.3 total,      0.1 free,   1907.3 used.     81.7 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 3439696   2.7g   1660 R 100.0  70.4   2:12.93 mem.sh
+current array size:
+  mem.sh: step 4300000: array size = 43000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:33:57 AM UTC 2025
+general memory stat:
+top - 09:33:57 up 13:25,  1 user,  load average: 48.38, 42.94, 19.75
+Tasks: 319 total,   4 running, 315 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.8 us, 31.0 sy,  0.0 ni,  4.3 id, 37.1 wa,  0.0 hi, 13.8 si,  0.0 st 
+MiB Mem :   3913.5 total,     99.6 free,   3885.8 used,    119.5 buff/cache     
+MiB Swap:   1907.3 total,      0.2 free,   1907.1 used.     27.7 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10558 natlad    20   0 3603772   2.8g    516 R   0.4  74.5   2:25.68 mem.sh
+current array size:
+  mem.sh: step 4600000: array size = 46000000
+  mem2.sh: step 2300000: array size = 23000000
+
+==========================================
+Wed Jun  4 09:40:48 AM UTC 2025
+general memory stat:
+top - 09:49:01 up 13:40,  1 user,  load average: 90.48, 84.90, 60.47
+Tasks: 298 total,   3 running, 295 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.4 us, 47.4 sy,  0.0 ni,  0.1 id, 22.4 wa,  0.0 hi, 29.7 si,  0.0 st 
+MiB Mem :   3913.5 total,     68.7 free,   3844.8 used,     87.9 buff/cache     
+MiB Swap:   1907.3 total,      0.2 free,   1907.2 used.     68.7 avail Mem 
+info about processes
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+current array size:
+  mem.sh: step 4600000: array size = 46000000
+  mem2.sh: step 2300000: array size = 23000000
+
+last notes in dmesg:
+[48278.873891] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-7c60cb90-02d4-4d65-a167-52fa3f60e8f2.scope,task=mem2.sh,pid=10559,uid=1000
+[48278.873938] Out of memory: Killed process 10559 (mem2.sh) total-vm:1836820kB, anon-rss:1345664kB, file-rss:184kB, shmem-rss:0kB, UID:1000 pgtables:3636kB oom_score_adj:200
+[49215.011233] [  10558]  1000 10558   910117   755225   755168       57         0  7340032   152288           200 mem.sh
+[49215.011252] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-7c60cb90-02d4-4d65-a167-52fa3f60e8f2.scope,task=mem.sh,pid=10558,uid=1000
+[49215.011290] Out of memory: Killed process 10558 (mem.sh) total-vm:3640468kB, anon-rss:3020672kB, file-rss:228kB, shmem-rss:0kB, UID:1000 pgtables:7168kB oom_score_adj:200
+

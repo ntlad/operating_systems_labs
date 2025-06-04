@@ -1,0 +1,14 @@
+1. Total RAM size:
+  4007468 KB
+
+2. Swap space size:
+  Total: 976556 KB (953 MB, 0 GB)
+
+3. Virtual memory page size:
+  4096 B
+
+4. The amount of free physical memory:
+  1098 MB
+
+5. Free swap space size:
+  976288 KB
