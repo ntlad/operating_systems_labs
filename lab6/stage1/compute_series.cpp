@@ -4,7 +4,7 @@
  
 using namespace std;
  
-const int ITERATIONS = 100000000; 
+const int ITERATIONS = 1500000000; 
  
 double compute_series() {
     double sum = 0.0;
